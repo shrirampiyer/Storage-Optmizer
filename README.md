@@ -32,8 +32,8 @@ As data accumulates over time, it becomes essential to manage storage efficientl
    
 ```
 2. Open the script file and set the TARGET_PATH variable to the directory containing the files you wish to manage:
- 
-   ```bash
+##
+      ```bash
 
    nano script.sh
 
