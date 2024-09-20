@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TARGET_PATH="/Users/Shriram/Desktop/bluebolt_poc"
+TARGET_PATH="/path/to/your/directory"
 
 CURRENT_DATE=$(date +%s)
 
