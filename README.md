@@ -31,27 +31,23 @@ As data accumulates over time, it becomes essential to manage storage efficientl
 ```
 
 
-2. Navigate to the directory:
 
-   ```bash
-cd Storage-Optimizer
-```
-3.Open the script file and set the TARGET_PATH variable to the directory containing the files you wish to manage:
+2.Open the script file and set the TARGET_PATH variable to the directory containing the files you wish to manage:
  
    ```bash
 nano script.sh
 ```
-4.Update the TARGET_PATH variable:
+3.Update the TARGET_PATH variable:
 
    ```bash
 TARGET_PATH="/path/to/your/directory"
 ```
-5.Make the script executable:
+4.Make the script executable:
 
    ```bash
 chmod +x script.sh
 ```
-6.Run the script:
+5.Run the script:
 
    ```bash
 
