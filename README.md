@@ -27,16 +27,18 @@ As data accumulates over time, it becomes essential to manage storage efficientl
 1. Clone this repository to your local machine:
 
    ```bash
+   
    git clone https://github.com/shrirampiyer/Storage-Optmizer.git
+   
 ```
-
-
-
 2.Open the script file and set the TARGET_PATH variable to the directory containing the files you wish to manage:
  
    ```bash
+
 nano script.sh
+
 ```
+
 3.Update the TARGET_PATH variable:
 
    ```bash
