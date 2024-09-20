@@ -35,7 +35,7 @@ As data accumulates over time, it becomes essential to manage storage efficientl
  
    ```bash
 
-nano script.sh
+   nano script.sh
 
 ```
 
