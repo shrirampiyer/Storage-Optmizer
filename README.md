@@ -37,7 +37,6 @@ As data accumulates over time, it becomes essential to manage storage efficientl
 ```bash
 nano script.sh
 ```
-
 3.Update the TARGET_PATH variable:
 
    ```bash
