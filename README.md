@@ -36,8 +36,6 @@ As data accumulates over time, it becomes essential to manage storage efficientl
    ```bash
 cd Storage-Optimizer
 ```
-
-
 3.Open the script file and set the TARGET_PATH variable to the directory containing the files you wish to manage:
  
    ```bash
